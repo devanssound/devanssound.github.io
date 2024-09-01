@@ -1,11 +1,11 @@
 name = "Dan Evans"
-rol = "Python Developer"
-email = "danimal100@outlook.com"
-phone = "+1 (213) 352-2795"
-birthday = "June 6, 1988"
+rol = "App Developer"
+email = ""
+phone = ""
+birthday = ""
 location = "USA"
 avatar = "https://i.imgur.com/em6jmBT.jpeg"
-username = "devanssound@gmail.com" # <-- github user name
+username = "devanssound" # <-- github user name
 presentation = """
 Hi! 
 My name is Dan Evans, I'm an experienced Audiovisual and IT Specialist from Raleigh, North Carolina. 
