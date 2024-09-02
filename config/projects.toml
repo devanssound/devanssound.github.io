@@ -5,14 +5,8 @@ image = "https://i.imgur.com/wAeZAit.png"
 url = "https://github.com/devanssound/EchoEarnings"
 
 [[project]]
-title = "Flutter Coffee Shop App"
-category = "Mobile development"
-image = "https://imgur.com/2nNXhDN.png"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
-
-[[project]]
-title = "Flutter Todo App"
-category = "Mobile development"
-image = "https://imgur.com/7110Lj1.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
+title = "PowerShell Subnetting"
+category = "Scripting"
+image = "https://i.imgur.com/B2cWUXX.jpeg"
+url = "https://github.com/devanssound/Binary"
 
