@@ -1,15 +1,13 @@
-name = "Dan Evans"
+name = "D. Evans"
 rol = "App Developer"
 email = ""
-phone = ""
+LinkedIn = "https://www.linkedin.com/"
 birthday = "Gemini"
 location = "USA"
 avatar = "https://i.imgur.com/em6jmBT.jpeg"
 username = "devanssound" # <-- github user name
 presentation = """
 Hi! 
-My name is Dan Evans, I'm an experienced Audiovisual and IT Specialist from Raleigh, North Carolina. 
-I enjoy turning complex problems into applications and scripts to solve company workflows.
-
-On the edge of IT and compute technologies, my job is to develop these functional programs fully aware of cybersecurity needs. Automation is the end goal, but human interaction and communication is the key.
+I have over 10 years of experience in Audiovisual and IT technologies working out of Raleigh, NC, USA. 
+I enjoy tuning complex systems by designing applications and scripts to solve company workflows.
 """
