@@ -43,19 +43,19 @@ show_bar = true
 show_value = true
 
 [[skill]]
-title = "Web design"
+title = "IT System Admin"
 value = "80%"
 
 [[skill]]
-title = "Graphic design"
+title = "PowerShell"
 value = "70%"
 
 [[skill]]
-title = "Branding"
+title = "Audiovisual"
 value = "90%"
 
 [[skill]]
-title = "WordPress"
+title = "Python"
 value = "50%"
 
 ############## Language config ##################
@@ -67,9 +67,9 @@ show_bar = true
 show_value = true
 
 [[language]]
-title = "Ingles"
-value = "60%"
+title = "English"
+value = "100%"
 
 [[language]]
-title = "French"
+title = "Espanol"
 value = "50%"
